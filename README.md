@@ -1,4 +1,4 @@
-```markdown
+
 # CodingQuizApp
 
 This is a simple quiz application built using HTML, CSS, and JavaScript. It provides users with multiple-choice questions on three different programming languages: HTML, CSS, and JavaScript.
@@ -81,4 +81,3 @@ This is a simple quiz application built using HTML, CSS, and JavaScript. It prov
 - Implement a leaderboard to track high scores.
 - Allow users to create their own quizzes.
 - Improve the visual design and user interface.
-```
